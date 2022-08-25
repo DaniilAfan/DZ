@@ -1,0 +1,15 @@
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\bin\Debug\net6.0\number1.5.exe
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\bin\Debug\net6.0\number1.5.deps.json
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\bin\Debug\net6.0\number1.5.runtimeconfig.json
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\bin\Debug\net6.0\number1.5.dll
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\bin\Debug\net6.0\number1.5.pdb
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\number1.5.csproj.AssemblyReference.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\number1.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\number1.5.AssemblyInfoInputs.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\number1.5.AssemblyInfo.cs
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\number1.5.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\number1.5.dll
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\refint\number1.5.dll
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\number1.5.pdb
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\number1.5.genruntimeconfig.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\number1.5\obj\Debug\net6.0\ref\number1.5.dll
