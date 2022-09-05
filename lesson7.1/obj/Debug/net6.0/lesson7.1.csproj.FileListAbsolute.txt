@@ -1,0 +1,15 @@
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\lesson7.1.csproj.AssemblyReference.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\lesson7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\lesson7.1.AssemblyInfoInputs.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\lesson7.1.AssemblyInfo.cs
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\lesson7.1.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\bin\Debug\net6.0\lesson7.1.exe
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\bin\Debug\net6.0\lesson7.1.deps.json
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\bin\Debug\net6.0\lesson7.1.runtimeconfig.json
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\bin\Debug\net6.0\lesson7.1.dll
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\bin\Debug\net6.0\lesson7.1.pdb
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\lesson7.1.dll
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\refint\lesson7.1.dll
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\lesson7.1.pdb
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\lesson7.1.genruntimeconfig.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson7.1\obj\Debug\net6.0\ref\lesson7.1.dll
