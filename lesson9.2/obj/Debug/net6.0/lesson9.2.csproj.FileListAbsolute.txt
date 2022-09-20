@@ -1,0 +1,15 @@
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\bin\Debug\net6.0\lesson9.2.exe
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\bin\Debug\net6.0\lesson9.2.deps.json
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\bin\Debug\net6.0\lesson9.2.runtimeconfig.json
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\bin\Debug\net6.0\lesson9.2.dll
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\bin\Debug\net6.0\lesson9.2.pdb
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\lesson9.2.csproj.AssemblyReference.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\lesson9.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\lesson9.2.AssemblyInfoInputs.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\lesson9.2.AssemblyInfo.cs
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\lesson9.2.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\lesson9.2.dll
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\refint\lesson9.2.dll
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\lesson9.2.pdb
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\lesson9.2.genruntimeconfig.cache
+C:\Users\Даниил\OneDrive\Рабочий стол\C#dz\upragnenya\lesson9.2\obj\Debug\net6.0\ref\lesson9.2.dll
